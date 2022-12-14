@@ -15,7 +15,7 @@ export default function PaginaApi({ usuarioApi, setUsuarioApi }) {
     //pra mim fez mais sentido chamar de pegarUsuariosAPI.
 
     //Olhe a documentação antes de fazer a API, aqui estamos passando o método
-    //get a url correspondente e o headers, não obrigatórios nessa requisição
+    //get a url correspondente e o headers, são obrigatórios nessa requisição
     //olhe a sintase do axios, ela será repetida em todas as APIS que estamos 
     //fazendo. 
 
